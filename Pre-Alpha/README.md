@@ -6,3 +6,5 @@ The hardware design will be uploaded with the Alpha version as soon as the sotwa
 
 These files over here include two demo file named "teapot.gcode" and "beercan.gcode"
 in which the beercan.gcode was generated with Ultrasound Sensor 3D Scanner Project.
+
+<img src="https://raw.githubusercontent.com/tobychui/Gcode-Coloring-Analysis-Engine/master/Pre-Alpha/vertex_painter%20preview.png">
